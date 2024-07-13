@@ -135,3 +135,74 @@ main{
     padding: 30px;
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
 }
+/* resume styles */
+.resume-container{
+    display: flex;
+    gap: 24px;
+    align-items: center;
+}
+.expereance{
+    width: 511px;
+    height: 175px;
+    margin-bottom: 30px;
+}
+.resume-title{
+    margin-bottom: 100px;
+}
+.resume-column-title{
+    font-size: 30px;
+    font-weight: bold;
+}
+.expereance-title{
+    font-size: 25px;
+    font-weight: bold;
+}
+.expereance-sub-title{
+    font-size: 20px;
+    font-weight: 600px;
+}
+expereance-description{
+    font-size: 16px;
+
+}
+.DCV-primary-btn{
+    margin-top: 50px;
+}
+/* footer styles */
+footer{
+    display: flex;
+    gap: 100px;
+    height: 780px;
+    align-items: safe;
+}
+.footer-description{
+    width: 560px;
+}
+.footer-column{
+    width: 50%;
+    margin-top: 190px;
+    margin-bottom: 526px;
+    justify-content: space-around;
+}
+footer input[ type="text"] ,footer input[ type="email"] ,textarea{
+    width: 460px;
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    border-style: none;
+    display: block;
+    margin-bottom: 24px;
+    padding: 18px 30px;
+}
+.f-c-1{
+    margin-left: 230px;
+}
+.t-a-1{
+    height: 120px;
+}
+.s-t{margin-bottom: 28px;
+
+}
+.img-container{
+    margin-top: 28px;
+}
